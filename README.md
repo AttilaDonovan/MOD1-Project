@@ -8,5 +8,9 @@ Hello and welcome to my fist data science project! This repository contains the 
 The dataset used for this project:
 https://data.world/jamesgaskin/movies/
 
+My Youtube video giving the presentation:
+https://youtu.be/hPo2qDr3ifo
+
 Check out my Medium blog on this project:
 https://medium.com/@attiladgogos/movie-streaming-project-part-1-ed2b822610ed
+
